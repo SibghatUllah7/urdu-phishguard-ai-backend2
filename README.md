@@ -1,8 +1,8 @@
 <<<<<<< HEAD
-# urdu-phishguard-ai-backend[Uploading README.md…]()
+# urdu-phishguard-ai-backend2()
 # 🇵🇰 Urdu-PhishGuard-AI  
 ### **AI-Powered Urdu Phishing Message Detector**  
-**🔒 Developed Independently Developers by _Sibghat Ullah_ & Zaryab khattak
+**🔒 Developed by Independently Developers _Sibghat Ullah_ & Zaryab khattak
 =======
 # 🇵🇰 Urdu-PhishGuard-AI  
 ### **AI-Powered Urdu Phishing Message Detector**  
