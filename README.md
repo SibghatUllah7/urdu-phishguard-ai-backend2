@@ -46,7 +46,8 @@ Urdu-PhishGuard-AI is a **Multilingual BERT-based phishing detection system** de
 ✅ **Hybrid Logic** → AI + Manual Review Threshold  
 ✅ Web UI + JSON API mode  
 ✅ Lightweight — works on **CPU**  
-✅ Model can be deployed to **HuggingFace / Streamlit / NCCS Demo**
+✅ Model can be deployed to **HuggingFace / Streamlit /
+
 
 ---
 
